@@ -13,4 +13,12 @@ As of 2024, QR codes are used in a much broader context, including both commerci
 
 Standards
 
+October 1997 – AIM (Association for Automatic Identification and Mobility) International[17]
+January 1999 – JIS X 0510
+June 2000 – ISO/IEC 18004:2000 Information technology – Automatic identification and data capture techniques – Bar code symbology – QR code (now withdrawn)
+Defines QR code models 1 and 2 symbols.
+1 September 2006 – ISO/IEC 18004:2006 Information technology – Automatic identification and data capture techniques – QR Code 2005 bar code symbology specification (now withdrawn)[18]
+Defines QR code 2005 symbols, an extension of QR code model 2. Does not specify how to read QR code model 1 symbols, or require this for compliance.
+1 February 2015 – ISO/IEC 18004:2015 Information – Automatic identification and data capture techniques – QR Code barcode symbology specification
+
 
