@@ -21,4 +21,8 @@ Defines QR code models 1 and 2 symbols.
 Defines QR code 2005 symbols, an extension of QR code model 2. Does not specify how to read QR code model 1 symbols, or require this for compliance.
 1 February 2015 – ISO/IEC 18004:2015 Information – Automatic identification and data capture techniques – QR Code barcode symbology specification
 
+Uses
+
+A QR code used on a large billboard in Japan, linking to the sagasou.mobi website
+QR codes have become common in consumer advertising. Typically, a smartphone is used as a QR code scanner, displaying the code and converting it to some useful form (such as a standard URL for a website, thereby obviating the need for a user to type it into a web browser). QR code has become a focus of advertising strategy, since it provides a way to access a brand's website more quickly than by manually entering a URL.[22][23] Beyond mere convenience to the consumer, the importance of this capability is that it increases the conversion rate: the chance that contact with the advertisement will convert to a sale. It coaxes interested prospects further down the conversion funnel with little delay or effort, bringing the viewer to the advertiser's website immediately, whereas a longer and more targeted sales pitch may lose the viewer's interest.
 
