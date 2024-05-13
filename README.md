@@ -26,3 +26,6 @@ Uses
 A QR code used on a large billboard in Japan, linking to the sagasou.mobi website
 QR codes have become common in consumer advertising. Typically, a smartphone is used as a QR code scanner, displaying the code and converting it to some useful form (such as a standard URL for a website, thereby obviating the need for a user to type it into a web browser). QR code has become a focus of advertising strategy, since it provides a way to access a brand's website more quickly than by manually entering a URL.[22][23] Beyond mere convenience to the consumer, the importance of this capability is that it increases the conversion rate: the chance that contact with the advertisement will convert to a sale. It coaxes interested prospects further down the conversion funnel with little delay or effort, bringing the viewer to the advertiser's website immediately, whereas a longer and more targeted sales pitch may lose the viewer's interest.
 
+Website login
+
+QR codes can be used to log into websites: a QR code is shown on the login page on a computer screen, and when a registered user scans it with a verified smartphone, they will automatically be logged in. Authentication is performed by the smartphone, which contacts the server. Google developed this in 2012.
